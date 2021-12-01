@@ -1,2 +1,2 @@
 # warin-first-repository
-First day to learn Github
+This is the first repository of warin
